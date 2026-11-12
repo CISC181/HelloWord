@@ -10,7 +10,7 @@ set_website_framed(False)
 
 
 @dataclass
-class State:
+class StateLess:
     pass
 
 
